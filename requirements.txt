@@ -1,0 +1,2 @@
+pytorch version 2.0
+numpy version 2.0.0
