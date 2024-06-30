@@ -9,7 +9,9 @@ Model: This model takes in one image and a different image e.g A dog and a dog w
 Training: Training is to be updated in code but use the link of the paper to look at the mathematical notation
 Requirements
 Python 3.x
+
 [List of libraries, e.g., numpy, PyTorch]
+
 Installation
 Clone the repository and install the necessary dependencies:
 
