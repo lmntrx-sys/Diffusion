@@ -40,8 +40,9 @@ Paper
   
 Contributors
   lmtrx-sys
-Contributor 2
+
 License
+
 This project is licensed under the MIT License 
 
 
