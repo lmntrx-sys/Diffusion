@@ -14,6 +14,7 @@ Installation
 Clone the repository and install the necessary dependencies:
 
 bash
+
     git clone https://github.com/lmntrx-sys/Diffusion.git
     cd Diffusion
     pip install -r requirements.txt
@@ -21,6 +22,7 @@ Usage
 To train the model: Image editing 
 
 bash
+
     python train.py --config config.yaml
     To generate samples:
 
