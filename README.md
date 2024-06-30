@@ -46,7 +46,7 @@ License
 This project is licensed under the MIT License 
 
 
-
+NOTE : Please feel free to correct me on the problems that you may encounter
 
 
 
